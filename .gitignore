@@ -1,5 +1,6 @@
 # Dados
-dados/
+dados/*.csv
+dados/*.pdf
 
 # Virtual environment
 .venv/
