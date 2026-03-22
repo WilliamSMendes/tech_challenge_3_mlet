@@ -8,5 +8,8 @@ xgboost
 lightgbm
 statsmodels
 plotly
+imbalanced-learn
+shap
+torch
 ipykernel
 jupyter
