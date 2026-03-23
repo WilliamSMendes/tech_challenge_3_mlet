@@ -40,6 +40,6 @@ Aplica o algoritmo KMeans para segmentar voos em grupos com comportamento operac
 
 ## Autores
 
-- William Mendes
-- André Beraldo
-- Guilherme dos Santos
+- William Mendes (RM 368203)
+- André Beraldo (RM 368506)
+- Guilherme dos Santos (RM 368552)
